@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.exe
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.deps.json
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.runtimeconfig.json
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.dll
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\bin\Debug\netcoreapp3.1\WandioTestConsoleApp.pdb
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\obj\Debug\netcoreapp3.1\WandioTestConsoleApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\obj\Debug\netcoreapp3.1\WandioTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\obj\Debug\netcoreapp3.1\WandioTestConsoleApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\obj\Debug\netcoreapp3.1\WandioTestConsoleApp.dll
+C:\Users\Admin\source\repos\WandioTestConsoleApp\WandioTestConsoleApp\obj\Debug\netcoreapp3.1\WandioTestConsoleApp.pdb
