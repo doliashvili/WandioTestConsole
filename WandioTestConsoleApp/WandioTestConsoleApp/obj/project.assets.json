@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\WandioTestConsoleApp\\WandioTestConsoleApp\\WandioTestConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\wandio-consoleApp\\WandioTestConsole\\WandioTestConsoleApp\\WandioTestConsoleApp\\WandioTestConsoleApp.csproj",
       "projectName": "WandioTestConsoleApp",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\WandioTestConsoleApp\\WandioTestConsoleApp\\WandioTestConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\wandio-consoleApp\\WandioTestConsole\\WandioTestConsoleApp\\WandioTestConsoleApp\\WandioTestConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\WandioTestConsoleApp\\WandioTestConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\wandio-consoleApp\\WandioTestConsole\\WandioTestConsoleApp\\WandioTestConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

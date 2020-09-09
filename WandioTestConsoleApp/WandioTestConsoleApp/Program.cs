@@ -8,14 +8,15 @@ namespace WandioTestConsoleApp
     {
         static void Main(string[] args)
         {
-            int[] source;
             char continueProces = Constants.no;
+            int[] source;
             do
             {
                 Console.WriteLine("Please input array numbers ForExmpl: 12, 123, 14, 23, 17, 16");
                 var input = Console.ReadLine();
                 var splitedArray = input.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
                 source = splitedArray.Length > 0 ? new int[splitedArray.Length] : new int[] { 12, 123, 14, 23, 17, 16 };
+                continueProces = Constants.no;
 
                 for (int i = 0; i < splitedArray.Length; i++)
                 {
